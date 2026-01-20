@@ -10,9 +10,9 @@ This repository contains MATLAB scripts and data files for analyzing power plant
 - **PCA:** Execute PCA to understand data structure and dimensionality reduction.
 
 ## Files
-- `Power_plant_data.xlsx`
-- `Powerplantdata.mat`
-- `projectfile.mlx`
+- `data/Power_plant_data.xlsx`
+- `data/Powerplantdata.mat`
+- `notebooks/projectfile.mlx`
 
 ## Usage
 1. Clone the repository.
